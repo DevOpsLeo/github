@@ -1,3 +1,4 @@
+ssh -t rsa -C "To generate ssh key pair and /.ssh/ida_rsa.pub to add in github ssh key settings. -t is to select type i.e.rsa -C = comment"
 git config
 git init
 git clone
